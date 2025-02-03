@@ -1,6 +1,4 @@
-# cplus
-
-All the basics of 
+# Course Plan Mind Map
 
 ```mermaid
 graph TD
